@@ -92,4 +92,6 @@ function distributeGoodies(inputFile, outputFile) {
 }
 
 //replace the file names with your file names
-distributeGoodies('inputFile-q2.txt', 'output.txt');
+distributeGoodies('input1.txt', 'output1.txt');
+distributeGoodies('input2.txt', 'output2.txt');
+distributeGoodies('input3.txt', 'output3.txt');
